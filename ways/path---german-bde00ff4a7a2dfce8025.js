@@ -1,0 +1,2 @@
+webpackJsonp([0xb7cdb0a56ed4],{578:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Alles Gute zum Geburtstag</p>",frontmatter:{author:"German"}}},pathContext:{author:"German"}}}});
+//# sourceMappingURL=path---german-bde00ff4a7a2dfce8025.js.map

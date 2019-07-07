@@ -1,0 +1,2 @@
+webpackJsonp([0x65c286bac45e],{603:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Isabukuru nziza</p>",frontmatter:{author:"Kinyarwanda"}}},pathContext:{author:"Kinyarwanda"}}}});
+//# sourceMappingURL=path---kinyarwanda-3d4a17f2137903fa7cd3.js.map

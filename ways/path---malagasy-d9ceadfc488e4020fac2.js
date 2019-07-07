@@ -1,0 +1,2 @@
+webpackJsonp([0xe7ed656dc570],{613:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Tratry ny tsingerintaona nahaterahana</p>",frontmatter:{author:"Malagasy"}}},pathContext:{author:"Malagasy"}}}});
+//# sourceMappingURL=path---malagasy-d9ceadfc488e4020fac2.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xb85013614dfa],{611:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Alles Guddes fir de Gebuertsdag</p>",frontmatter:{author:"Luxembourgish"}}},pathContext:{author:"Luxembourgish"}}}});
+//# sourceMappingURL=path---luxembourgish-7fd3484f233768f34b07.js.map

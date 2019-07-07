@@ -1,0 +1,2 @@
+webpackJsonp([0xeb6883643468],{630:function(a,t){a.exports={data:{markdownRemark:{html:"<p>La multi ani</p>",frontmatter:{author:"Romanian"}}},pathContext:{author:"Romanian"}}}});
+//# sourceMappingURL=path---romanian-422070cc97b5c00c64c9.js.map

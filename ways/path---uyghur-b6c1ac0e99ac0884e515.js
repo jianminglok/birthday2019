@@ -1,0 +1,2 @@
+webpackJsonp([53311740166879],{654:function(t,a){t.exports={data:{markdownRemark:{html:"<p>تۇغۇلغانكۈنىڭىز قۇتلۇق بولسۇن</p>",frontmatter:{author:"Uyghur"}}},pathContext:{author:"Uyghur"}}}});
+//# sourceMappingURL=path---uyghur-b6c1ac0e99ac0884e515.js.map

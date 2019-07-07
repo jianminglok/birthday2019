@@ -1,0 +1,2 @@
+webpackJsonp([24439646123653],{545:function(t,a){t.exports={data:{markdownRemark:{html:"<p>عيد مولد سعيد</p>",frontmatter:{author:"Arabic"}}},pathContext:{author:"Arabic"}}}});
+//# sourceMappingURL=path---arabic-9d8d7cd11bd45c3f5667.js.map

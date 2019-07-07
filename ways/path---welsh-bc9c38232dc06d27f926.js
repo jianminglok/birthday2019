@@ -1,0 +1,2 @@
+webpackJsonp([86271638040858],{657:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Penblwydd hapus</p>",frontmatter:{author:"Welsh"}}},pathContext:{author:"Welsh"}}}});
+//# sourceMappingURL=path---welsh-bc9c38232dc06d27f926.js.map

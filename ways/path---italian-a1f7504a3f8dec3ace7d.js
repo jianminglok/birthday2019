@@ -1,0 +1,2 @@
+webpackJsonp([631467542022],{595:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Buon compleanno</p>",frontmatter:{author:"Italian"}}},pathContext:{author:"Italian"}}}});
+//# sourceMappingURL=path---italian-a1f7504a3f8dec3ace7d.js.map

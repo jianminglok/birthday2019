@@ -1,0 +1,2 @@
+webpackJsonp([61244336365675],{652:function(a,t){a.exports={data:{markdownRemark:{html:"<p>З Днем Народження</p>",frontmatter:{author:"Ukrainian"}}},pathContext:{author:"Ukrainian"}}}});
+//# sourceMappingURL=path---ukrainian-4d9884b844e24115c904.js.map

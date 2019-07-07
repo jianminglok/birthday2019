@@ -1,0 +1,2 @@
+webpackJsonp([0xc9137ffd5e3c],{548:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Ad günün mübarək</p>",frontmatter:{author:"Azerbaijani"}}},pathContext:{author:"Azerbaijani"}}}});
+//# sourceMappingURL=path---azerbaijani-48ec5ec4211cf2100cd6.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xb42e09452af7],{635:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Letsatsi le monate la tsoalo</p>",frontmatter:{author:"Sesotho"}}},pathContext:{author:"Sesotho"}}}});
+//# sourceMappingURL=path---sesotho-5489099d37de76dc092d.js.map

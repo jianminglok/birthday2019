@@ -1,0 +1,2 @@
+webpackJsonp([0xbee9eb5d2fbe],{614:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Selamat Hari Jadi</p>",frontmatter:{author:"Malay"}}},pathContext:{author:"Malay"}}}});
+//# sourceMappingURL=path---malay-34fe8aff029e2ea75689.js.map

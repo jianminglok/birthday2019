@@ -1,0 +1,2 @@
+webpackJsonp([0x76db1878567d],{641:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Dhalasho Wacan</p>",frontmatter:{author:"Somali"}}},pathContext:{author:"Somali"}}}});
+//# sourceMappingURL=path---somali-2ca70e5769504d8ba251.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xeba2724c0921],{552:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Amulli ameggaz</p>",frontmatter:{author:"Berber"}}},pathContext:{author:"Berber"}}}});
+//# sourceMappingURL=path---berber-2322e83ac7137a04f8c6.js.map

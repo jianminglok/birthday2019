@@ -1,0 +1,2 @@
+webpackJsonp([0x83850b11326d],{616:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Għeluq t-twelid</p>",frontmatter:{author:"Maltese"}}},pathContext:{author:"Maltese"}}}});
+//# sourceMappingURL=path---maltese-6e6016cd411e3e314136.js.map

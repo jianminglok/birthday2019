@@ -1,0 +1,2 @@
+webpackJsonp([0xb30425099f80],{650:function(t,a){t.exports={data:{markdownRemark:{html:"<p>སྐྱེས་སྐར་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ཞུ།</p>",frontmatter:{author:"Tibetan"}}},pathContext:{author:"Tibetan"}}}});
+//# sourceMappingURL=path---tibetan-717507df09575e4bf194.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xb0f36b4bb89e],{577:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Გილოცავ დაბადების დღეს</p>",frontmatter:{author:"Georgian"}}},pathContext:{author:"Georgian"}}}});
+//# sourceMappingURL=path---georgian-4f292997425765964b57.js.map

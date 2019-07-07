@@ -1,0 +1,2 @@
+webpackJsonp([0xf2b5b3dcb8c8],{562:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Všechno nejlepší k narozeninám</p>",frontmatter:{author:"Czech"}}},pathContext:{author:"Czech"}}}});
+//# sourceMappingURL=path---czech-643c8d7be25f0efecd72.js.map

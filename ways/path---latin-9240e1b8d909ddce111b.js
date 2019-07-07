@@ -1,0 +1,2 @@
+webpackJsonp([0x99fdb3392e97],{607:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Felix natalis</p>",frontmatter:{author:"Latin"}}},pathContext:{author:"Latin"}}}});
+//# sourceMappingURL=path---latin-9240e1b8d909ddce111b.js.map

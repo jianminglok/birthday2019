@@ -1,0 +1,2 @@
+webpackJsonp([0x68fff862a54b],{644:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Siku ya kuzaliwa ya furaha</p>",frontmatter:{author:"Swahili"}}},pathContext:{author:"Swahili"}}}});
+//# sourceMappingURL=path---swahili-845eb2480fb4849474ad.js.map

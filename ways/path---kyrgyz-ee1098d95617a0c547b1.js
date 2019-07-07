@@ -1,0 +1,2 @@
+webpackJsonp([0xacaa3eebf26c],{605:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Туулган кунуңуз менен куттуктайм</p>",frontmatter:{author:"Kyrgyz"}}},pathContext:{author:"Kyrgyz"}}}});
+//# sourceMappingURL=path---kyrgyz-ee1098d95617a0c547b1.js.map

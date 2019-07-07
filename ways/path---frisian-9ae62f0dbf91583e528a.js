@@ -1,0 +1,2 @@
+webpackJsonp([0x64d71cea92fc],{574:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Lokkige jierdei</p>",frontmatter:{author:"Frisian"}}},pathContext:{author:"Frisian"}}}});
+//# sourceMappingURL=path---frisian-9ae62f0dbf91583e528a.js.map

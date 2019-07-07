@@ -1,0 +1,2 @@
+webpackJsonp([57921710164118],{590:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Ezi ncheta ọmụmụ</p>",frontmatter:{author:"Igbo"}}},pathContext:{author:"Igbo"}}}});
+//# sourceMappingURL=path---igbo-d33820988bf29b66d390.js.map

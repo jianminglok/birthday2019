@@ -1,0 +1,2 @@
+webpackJsonp([0x9f768fd683c0],{588:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Boldog születésnapot</p>",frontmatter:{author:"Hungarian"}}},pathContext:{author:"Hungarian"}}}});
+//# sourceMappingURL=path---hungarian-d22762cbe451db3c3319.js.map

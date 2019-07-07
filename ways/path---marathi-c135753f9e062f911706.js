@@ -1,0 +1,2 @@
+webpackJsonp([89385471551119],{618:function(t,a){t.exports={data:{markdownRemark:{html:"<p>वाढदिवसाच्या शुभेच्छा</p>",frontmatter:{author:"Marathi"}}},pathContext:{author:"Marathi"}}}});
+//# sourceMappingURL=path---marathi-c135753f9e062f911706.js.map

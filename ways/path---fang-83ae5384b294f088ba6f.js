@@ -1,0 +1,2 @@
+webpackJsonp([0x77806c2a44f8],{569:function(a,t){a.exports={data:{markdownRemark:{html:"<p>bamba mbou</p>",frontmatter:{author:"Fang"}}},pathContext:{author:"Fang"}}}});
+//# sourceMappingURL=path---fang-83ae5384b294f088ba6f.js.map

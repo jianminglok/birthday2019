@@ -1,0 +1,2 @@
+webpackJsonp([867632628265],{624:function(t,a){t.exports={data:{markdownRemark:{html:"<p>تولدت مبارک</p>",frontmatter:{author:"Persian"}}},pathContext:{author:"Persian"}}}});
+//# sourceMappingURL=path---persian-4c356fa40068e5a450f3.js.map

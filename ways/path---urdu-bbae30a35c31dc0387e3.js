@@ -1,0 +1,2 @@
+webpackJsonp([28020384157302],{653:function(t,a){t.exports={data:{markdownRemark:{html:"<p>سالگرہ مبارک</p>",frontmatter:{author:"Urdu"}}},pathContext:{author:"Urdu"}}}});
+//# sourceMappingURL=path---urdu-bbae30a35c31dc0387e3.js.map

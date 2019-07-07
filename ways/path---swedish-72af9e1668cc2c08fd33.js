@@ -1,0 +1,2 @@
+webpackJsonp([60779718945389],{645:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Grattis på födelsedagen</p>",frontmatter:{author:"Swedish"}}},pathContext:{author:"Swedish"}}}});
+//# sourceMappingURL=path---swedish-72af9e1668cc2c08fd33.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([68757358014819],{602:function(t,a){t.exports={data:{markdownRemark:{html:"<p>រីករាយ​ថ្ងៃ​កំណើត</p>",frontmatter:{author:"Khmer"}}},pathContext:{author:"Khmer"}}}});
+//# sourceMappingURL=path---khmer-6f4e56d5bef41cdad3e0.js.map

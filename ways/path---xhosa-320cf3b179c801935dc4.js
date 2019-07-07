@@ -1,0 +1,2 @@
+webpackJsonp([0xae1d5200f78b],{658:function(a,o){a.exports={data:{markdownRemark:{html:"<p>Usuku lokuzalwa olumnandi</p>",frontmatter:{author:"Xhosa"}}},pathContext:{author:"Xhosa"}}}});
+//# sourceMappingURL=path---xhosa-320cf3b179c801935dc4.js.map

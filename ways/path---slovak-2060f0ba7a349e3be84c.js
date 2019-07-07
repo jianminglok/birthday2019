@@ -1,0 +1,2 @@
+webpackJsonp([0x76fc6cfb8bde],{639:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Šťastné narodeniny</p>",frontmatter:{author:"Slovak"}}},pathContext:{author:"Slovak"}}}});
+//# sourceMappingURL=path---slovak-2060f0ba7a349e3be84c.js.map

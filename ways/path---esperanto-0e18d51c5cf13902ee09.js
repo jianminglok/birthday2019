@@ -1,0 +1,2 @@
+webpackJsonp([0xfffab6999040],{567:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Feliĉan naskiĝtagon</p>",frontmatter:{author:"Esperanto"}}},pathContext:{author:"Esperanto"}}}});
+//# sourceMappingURL=path---esperanto-0e18d51c5cf13902ee09.js.map

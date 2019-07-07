@@ -1,0 +1,2 @@
+webpackJsonp([42008364052031],{597:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Sugeng tanggap warsa</p>",frontmatter:{author:"Javanese"}}},pathContext:{author:"Javanese"}}}});
+//# sourceMappingURL=path---javanese-a00eb955334acc60a1c3.js.map

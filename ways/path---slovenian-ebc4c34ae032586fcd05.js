@@ -1,0 +1,2 @@
+webpackJsonp([45330232156164],{640:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Vse najboljše</p>",frontmatter:{author:"Slovenian"}}},pathContext:{author:"Slovenian"}}}});
+//# sourceMappingURL=path---slovenian-ebc4c34ae032586fcd05.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xef3e741d483a],{594:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Lá breithe shona duit</p>",frontmatter:{author:"Irish"}}},pathContext:{author:"Irish"}}}});
+//# sourceMappingURL=path---irish-d4434c2d08480e72d43b.js.map

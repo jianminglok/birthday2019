@@ -1,0 +1,2 @@
+webpackJsonp([73348804283723],{656:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Chúc mừng sinh nhật</p>",frontmatter:{author:"Vietnamese"}}},pathContext:{author:"Vietnamese"}}}});
+//# sourceMappingURL=path---vietnamese-1c8b016eb5dfe3ff9892.js.map

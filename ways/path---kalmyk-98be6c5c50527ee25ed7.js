@@ -1,0 +1,2 @@
+webpackJsonp([0x6f99610ce0eb],{599:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Тёрсн ёдртн байрта болтха</p>",frontmatter:{author:"Kalmyk"}}},pathContext:{author:"Kalmyk"}}}});
+//# sourceMappingURL=path---kalmyk-98be6c5c50527ee25ed7.js.map

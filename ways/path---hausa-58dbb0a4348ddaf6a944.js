@@ -1,0 +1,2 @@
+webpackJsonp([87121796658672],{583:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Barka da ranar haihuwa</p>",frontmatter:{author:"Hausa"}}},pathContext:{author:"Hausa"}}}});
+//# sourceMappingURL=path---hausa-58dbb0a4348ddaf6a944.js.map

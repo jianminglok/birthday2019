@@ -1,0 +1,2 @@
+webpackJsonp([0x9c0677ebb4b5],{586:function(t,a){t.exports={data:{markdownRemark:{html:"<p>जन्मदिन की शुभकामनाएं</p>",frontmatter:{author:"Hindi"}}},pathContext:{author:"Hindi"}}}});
+//# sourceMappingURL=path---hindi-d69c4b6374474b796668.js.map

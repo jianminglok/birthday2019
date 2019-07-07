@@ -1,0 +1,2 @@
+webpackJsonp([0x63c89e961d2f],{604:function(t,a){t.exports={data:{markdownRemark:{html:"<p>생일 축하</p>",frontmatter:{author:"Korean"}}},pathContext:{author:"Korean"}}}});
+//# sourceMappingURL=path---korean-6558ab3392454e914795.js.map

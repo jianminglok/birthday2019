@@ -1,0 +1,2 @@
+webpackJsonp([0xa56ee96db68c],{648:function(a,t){a.exports={data:{markdownRemark:{html:"<p>பிறந்தநாள் வாழ்த்துக்கள்</p>",frontmatter:{author:"Tamil"}}},pathContext:{author:"Tamil"}}}});
+//# sourceMappingURL=path---tamil-3370910803f602132621.js.map

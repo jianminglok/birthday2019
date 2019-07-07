@@ -1,0 +1,2 @@
+webpackJsonp([4798192772944],{542:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Gëzuar Ditëlindjen</p>",frontmatter:{author:"Albanian"}}},pathContext:{author:"Albanian"}}}});
+//# sourceMappingURL=path---albanian-419a577b097382846b0a.js.map

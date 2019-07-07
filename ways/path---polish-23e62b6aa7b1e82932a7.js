@@ -1,0 +1,2 @@
+webpackJsonp([0x9f2a979b0df1],{625:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Wszystkiego najlepszego</p>",frontmatter:{author:"Polish"}}},pathContext:{author:"Polish"}}}});
+//# sourceMappingURL=path---polish-23e62b6aa7b1e82932a7.js.map

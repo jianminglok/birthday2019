@@ -1,0 +1,2 @@
+webpackJsonp([0xd0296c872042],{546:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Ծնունդդ շնորհավոր</p>",frontmatter:{author:"Armenian"}}},pathContext:{author:"Armenian"}}}});
+//# sourceMappingURL=path---armenian-de9e64bd3b57d775110d.js.map

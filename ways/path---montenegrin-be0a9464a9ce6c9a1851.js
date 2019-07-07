@@ -1,0 +1,2 @@
+webpackJsonp([0xf7303abae8b2],{620:function(n,t){n.exports={data:{markdownRemark:{html:"<p>Sretan rođendan</p>",frontmatter:{author:"Montenegrin"}}},pathContext:{author:"Montenegrin"}}}});
+//# sourceMappingURL=path---montenegrin-be0a9464a9ce6c9a1851.js.map

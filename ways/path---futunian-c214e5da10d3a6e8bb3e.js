@@ -1,0 +1,2 @@
+webpackJsonp([0x880f1e33f7dc],{575:function(t,a){t.exports={data:{markdownRemark:{html:"<p>ke manu’ia lou ‘asotupu</p>",frontmatter:{author:"Futunian"}}},pathContext:{author:"Futunian"}}}});
+//# sourceMappingURL=path---futunian-c214e5da10d3a6e8bb3e.js.map

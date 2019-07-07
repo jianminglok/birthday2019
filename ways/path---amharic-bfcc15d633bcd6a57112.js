@@ -1,0 +1,2 @@
+webpackJsonp([64506423639020],{544:function(t,a){t.exports={data:{markdownRemark:{html:"<p>መልካም ልደት</p>",frontmatter:{author:"Amharic"}}},pathContext:{author:"Amharic"}}}});
+//# sourceMappingURL=path---amharic-bfcc15d633bcd6a57112.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xd6210eb635c8],{559:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Tsiku labwino lobadwa</p>",frontmatter:{author:"Chichewa"}}},pathContext:{author:"Chichewa"}}}});
+//# sourceMappingURL=path---chichewa-881f2d4cbb8bd884b6b5.js.map

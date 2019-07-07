@@ -1,0 +1,2 @@
+webpackJsonp([47247937620506],{564:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Buña bwa yabè ba bwam</p>",frontmatter:{author:"Duala"}}},pathContext:{author:"Duala"}}}});
+//# sourceMappingURL=path---duala-938517819719f450ce38.js.map

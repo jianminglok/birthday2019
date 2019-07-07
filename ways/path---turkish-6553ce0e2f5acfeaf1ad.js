@@ -1,0 +1,2 @@
+webpackJsonp([0xfb91e35b1a9c],{651:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Doğum günün kutlu olsun</p>",frontmatter:{author:"Turkish"}}},pathContext:{author:"Turkish"}}}});
+//# sourceMappingURL=path---turkish-6553ce0e2f5acfeaf1ad.js.map

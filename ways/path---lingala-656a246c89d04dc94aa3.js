@@ -1,0 +1,2 @@
+webpackJsonp([0x77565f7d2004],{609:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Mbotama elamu</p>",frontmatter:{author:"Lingala"}}},pathContext:{author:"Lingala"}}}});
+//# sourceMappingURL=path---lingala-656a246c89d04dc94aa3.js.map

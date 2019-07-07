@@ -1,0 +1,2 @@
+webpackJsonp([74984147041364],{608:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Daudz laimes dzimšanas dienā</p>",frontmatter:{author:"Latvian"}}},pathContext:{author:"Latvian"}}}});
+//# sourceMappingURL=path---latvian-80d1c409bb05541daa93.js.map

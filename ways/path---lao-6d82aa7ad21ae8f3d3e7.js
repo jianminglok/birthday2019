@@ -1,0 +1,2 @@
+webpackJsonp([22961077552126],{606:function(t,a){t.exports={data:{markdownRemark:{html:"<p>ສຸກ​ສັນ​ວັນ​ເກີດ</p>",frontmatter:{author:"Lao"}}},pathContext:{author:"Lao"}}}});
+//# sourceMappingURL=path---lao-6d82aa7ad21ae8f3d3e7.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xdedaa6bdac48],{633:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Co-là-breith matha</p>",frontmatter:{author:"Scots Gaelic"}}},pathContext:{author:"Scots Gaelic"}}}});
+//# sourceMappingURL=path---scots-gaelic-035b1cea26994e563556.js.map

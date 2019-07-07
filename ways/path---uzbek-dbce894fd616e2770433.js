@@ -1,0 +1,2 @@
+webpackJsonp([0x7428b3743405],{655:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Tug’ilgan kuning bilan</p>",frontmatter:{author:"Uzbek"}}},pathContext:{author:"Uzbek"}}}});
+//# sourceMappingURL=path---uzbek-dbce894fd616e2770433.js.map

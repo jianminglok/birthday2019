@@ -1,0 +1,2 @@
+webpackJsonp([98202340633350],{632:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Manuia le aso fanau</p>",frontmatter:{author:"Samoan"}}},pathContext:{author:"Samoan"}}}});
+//# sourceMappingURL=path---samoan-6b23da01a84e2d5a7b8a.js.map

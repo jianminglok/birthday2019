@@ -1,0 +1,2 @@
+webpackJsonp([0x7c35a83cf117],{634:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Срећан рођендан</p>",frontmatter:{author:"Serbian"}}},pathContext:{author:"Serbian"}}}});
+//# sourceMappingURL=path---serbian-8975fe7de63e72f7706b.js.map

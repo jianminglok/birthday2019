@@ -1,0 +1,2 @@
+webpackJsonp([0xb1133d5f76df],{589:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Til hamingju með afmælið</p>",frontmatter:{author:"Icelandic"}}},pathContext:{author:"Icelandic"}}}});
+//# sourceMappingURL=path---icelandic-2c4afb35bbe151031808.js.map

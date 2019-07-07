@@ -1,0 +1,2 @@
+webpackJsonp([0xbebd033506ae],{549:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Zorionak</p>",frontmatter:{author:"Basque"}}},pathContext:{author:"Basque"}}}});
+//# sourceMappingURL=path---basque-96325ff148f0842616f5.js.map

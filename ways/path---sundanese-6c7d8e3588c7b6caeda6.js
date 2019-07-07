@@ -1,0 +1,2 @@
+webpackJsonp([49096931517966],{643:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Wilujeung tepang taun</p>",frontmatter:{author:"Sundanese"}}},pathContext:{author:"Sundanese"}}}});
+//# sourceMappingURL=path---sundanese-6c7d8e3588c7b6caeda6.js.map

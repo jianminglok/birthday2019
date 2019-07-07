@@ -1,0 +1,2 @@
+webpackJsonp([0xe49aad0e04c2],{570:function(a,t){a.exports={data:{markdownRemark:{html:"<p>til lukku við føðingardegnum</p>",frontmatter:{author:"Faroese"}}},pathContext:{author:"Faroese"}}}});
+//# sourceMappingURL=path---faroese-d86744bda8bdbf9d1f59.js.map

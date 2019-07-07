@@ -1,0 +1,2 @@
+webpackJsonp([0xcd674fd23f1f],{571:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Maligayang kaarawan</p>",frontmatter:{author:"Filipino"}}},pathContext:{author:"Filipino"}}}});
+//# sourceMappingURL=path---filipino-991ab5ebf6ffa90ab57d.js.map

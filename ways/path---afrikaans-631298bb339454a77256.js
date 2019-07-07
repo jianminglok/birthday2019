@@ -1,0 +1,2 @@
+webpackJsonp([0xb28aef810d94],{541:function(a,t){a.exports={data:{markdownRemark:{html:"<p>gelukkige verjaarsdag</p>",frontmatter:{author:"Afrikaans"}}},pathContext:{author:"Afrikaans"}}}});
+//# sourceMappingURL=path---afrikaans-631298bb339454a77256.js.map

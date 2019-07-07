@@ -1,0 +1,2 @@
+webpackJsonp([48950283960595],{638:function(a,t){a.exports={data:{markdownRemark:{html:"<p>සුබ උපන්දිනයක් වේවා</p>",frontmatter:{author:"Sinhala"}}},pathContext:{author:"Sinhala"}}}});
+//# sourceMappingURL=path---sinhala-d5a9440ff12ac2652dd2.js.map

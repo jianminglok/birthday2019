@@ -1,0 +1,2 @@
+webpackJsonp([25036030579911],{659:function(t,a){t.exports={data:{markdownRemark:{html:"<p>מזל דיין געבורסטאָג</p>",frontmatter:{author:"Yiddish"}}},pathContext:{author:"Yiddish"}}}});
+//# sourceMappingURL=path---yiddish-bfdb517c128def445bcb.js.map

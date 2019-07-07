@@ -1,0 +1,2 @@
+webpackJsonp([39815069520684],{600:function(a,t){a.exports={data:{markdownRemark:{html:"<p>ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು</p>",frontmatter:{author:"Kannada"}}},pathContext:{author:"Kannada"}}}});
+//# sourceMappingURL=path---kannada-525fbf5ce43c5b4c1234.js.map

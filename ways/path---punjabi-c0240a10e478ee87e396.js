@@ -1,0 +1,2 @@
+webpackJsonp([0xbcf48f197de8],{627:function(t,a){t.exports={data:{markdownRemark:{html:"<p>ਜਨਮਦਿਨ ਮੁਬਾਰਕ</p>",frontmatter:{author:"Punjabi"}}},pathContext:{author:"Punjabi"}}}});
+//# sourceMappingURL=path---punjabi-c0240a10e478ee87e396.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([91210118870964],{615:function(a,t){a.exports={data:{markdownRemark:{html:"<p>ജന്മദിനാശംസകൾ</p>",frontmatter:{author:"Malayalam"}}},pathContext:{author:"Malayalam"}}}});
+//# sourceMappingURL=path---malayalam-723c995e0a9e0d26ed33.js.map

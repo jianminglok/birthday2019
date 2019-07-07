@@ -1,0 +1,2 @@
+webpackJsonp([0xccefeb3c9bed],{622:function(e,a){e.exports={data:{markdownRemark:{html:"<p>Gratulerer med dagen</p>",frontmatter:{author:"Norwegian"}}},pathContext:{author:"Norwegian"}}}});
+//# sourceMappingURL=path---norwegian-1abe2ef9069b354f501c.js.map

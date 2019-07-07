@@ -1,0 +1,2 @@
+webpackJsonp([63933953067108],{572:function(t,n){t.exports={data:{markdownRemark:{html:"<p>Hyvää syntymäpäivää</p>",frontmatter:{author:"Finnish"}}},pathContext:{author:"Finnish"}}}});
+//# sourceMappingURL=path---finnish-18be0d7fc8bd0b3f7866.js.map

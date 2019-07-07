@@ -1,0 +1,2 @@
+webpackJsonp([0xc14c45ae102b],{587:function(o,t){o.exports={data:{markdownRemark:{html:"<p>Zoo siab hnub yug</p>",frontmatter:{author:"Hmong"}}},pathContext:{author:"Hmong"}}}});
+//# sourceMappingURL=path---hmong-dbb7803869d16ffa0d6a.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xc89715913225],{596:function(a,t){a.exports={data:{markdownRemark:{html:"<p>お誕生日おめでとうございます</p>",frontmatter:{author:"Japanese"}}},pathContext:{author:"Japanese"}}}});
+//# sourceMappingURL=path---japanese-86e1a6416c3df5fab8cd.js.map

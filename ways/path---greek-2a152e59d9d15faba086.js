@@ -1,0 +1,2 @@
+webpackJsonp([0xd58c3e6c8f4a],{579:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Χαρούμενα γενέθλια</p>",frontmatter:{author:"Greek"}}},pathContext:{author:"Greek"}}}});
+//# sourceMappingURL=path---greek-2a152e59d9d15faba086.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x9a882541439d],{619:function(a,o){a.exports={data:{markdownRemark:{html:"<p>Төрсөн өдрийн мэнд</p>",frontmatter:{author:"Mongolian"}}},pathContext:{author:"Mongolian"}}}});
+//# sourceMappingURL=path---mongolian-43a3cb6db09d8c0ce13e.js.map

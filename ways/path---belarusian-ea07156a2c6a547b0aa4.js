@@ -1,0 +1,2 @@
+webpackJsonp([0xb7f9ca98d5b5],{550:function(a,t){a.exports={data:{markdownRemark:{html:"<p>З днём нараджэння</p>",frontmatter:{author:"Belarusian"}}},pathContext:{author:"Belarusian"}}}});
+//# sourceMappingURL=path---belarusian-ea07156a2c6a547b0aa4.js.map

@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Kung's Birthday</title>
+  <link href="static/css/section1.css" rel="stylesheet">
+  <link href="static/css/section2.css" rel="stylesheet">
+  <link href="static/css/section3.css" rel="stylesheet">
+  <link href="static/css/section4.css" rel="stylesheet">
+  <link href="static/css/section5.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.8.8/jquery.fullPage.min.css" rel="stylesheet">
+</head>
+<style>
+body {
+  position: fixed;
+}
+
+@font-face {
+  font-family: 'DingDing';
+  src: url(../start/MFDingDing_Noncommercial-Regular.ttf);
+}
+
+  
+.proceedButton::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: white;
+    border-radius: 1em;
+    content: '';
+    mix-blend-mode: color-burn;
+  }
+
+.proceedButton {
+    font-family: 'DingDing', sans-serif;
+    position: absolute;
+    padding: 0 0.5em;
+    font-size: 3em;
+    border: none;
+    background: white;
+    border-radius: 1em;
+    outline: none;
+    color: black;
+    mix-blend-mode: screen;
+    margin: 0 auto;
+    display: block;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.0625), 0 4px 8px 0 rgba(0,0,0,0.125);
+    bottom: 0.3em;
+    left: 50%;
+    transform: translate(-40%, -50%);
+  }
+
+.bg {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .bg1 {
+    background-image: url("../start/background.jpg");
+    background-size: cover;
+  }
+
+#wrapper {
+  -moz-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  -o-transform: scale(0.7);
+  -webkit-transform: scale(0.7);
+  transform: scale(0.7);
+}
+
+.section5 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background: none;
+}
+
+h1 {
+      font-family: 'DingDing', sans-serif;
+      color: white;
+      text-align: center;
+      font-size: 6em;
+      font-weight: normal;
+      letter-spacing: 5px;
+      margin-block-start: 0.3em;
+      margin-bottom: 0;
+  }
+
+.smaller {
+      margin-block-start: 0;
+      font-size: 3em;
+}
+
+</style>
+<body>
+  <div class="bg bg1">
+  <h1>恭喜你</h1>
+  <h1 class="smaller">又长大了一岁!</h1>
+  <div id="fullPage">
+    
+    <div class="section section5">
+      <div id="wrapper">
+        <div id="candle-1" class="candle small">
+          <div class="eye"></div>
+          <div class="eye"></div>
+          <div class="flame"></div>
+        </div>
+         <div class="flame-halo"></div>
+        <div id="candle-2" class="candle">
+          <div class="eye"></div>
+          <div class="eye"></div>
+          <div class="mouth"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button class="proceedButton" onclick="window.location.href='/flowers'">继续</button>
+</div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.8.2/jquery.fullPage.min.js"></script>
+  <script src='http://css-tricks.com/examples/BlurredText/js/jquery.lettering.js'></script>
+  <script src="static/js/section2.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.4/typed.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+
+      var t1 = new TimelineMax({
+        repeat: -1
+      });
+  
+              c1 = $('#candle-1'),
+              c2 = $('#candle-2'),
+              f = c1.find('.flame'),
+              m = c2.find('.mouth'),
+
+              fTween = TweenMax.to(f, 0.3, {
+                width: 27,
+                backgroundColor: 'yellow',
+                repeat: -1,
+                yoyo: true
+              });
+
+              if((t1.progress() > 0) && (t1.progress() < 1))
+              {
+                t1.progress(0);
+              }
+              else
+              {
+                t1.add(
+                  [
+                    TweenMax.to(c2, 0.1, {
+                      scale: 1.2,
+                      transformOrigin: "center bottom"
+                    }),
+                    TweenMax.to(m, 0.7, {
+                      scale: 5,
+                      transformOrigin: "center center",
+                      force3D: false
+                    })
+                  ]
+                ).add(
+                  [
+                    TweenMax.to(c2, 0.7, {
+                      scale: 1,
+                      transformOrigin: "center bottom"
+                    }),
+                    TweenMax.to(m, 0.7, {
+                      scale: 1.1,
+                      transformOrigin: "center center",
+                      force3D: false
+                    })
+                  ]
+                ).to(m, 1, {
+                  width: 100,
+                  borderRadius: 0,
+                  x: -300,
+                  autoAlpha: 0
+                }, 1.2)
+                .to(c1, 0.3, {
+                  x: -3,
+                  repeat: 4,
+                  yoyo: true
+                }, 1.3)
+                .to([f,'.flame-halo'], 0.1, {
+                  autoAlpha: 0,
+                  scale: 0.5
+                }, 1.3)
+                .add([
+                  TweenMax.to(c1, 1, {
+                    height: "-=20",
+                    scaleX: 1.2,
+                    backgroundColor: "#FFCCCC",
+                    transformOrigin: "center center"
+                  }),
+                  TweenMax.to(c1.find('.eye'), 1, {
+                    height: "-=5"
+                  }),
+                ])
+                .to(c1, 0.2, {
+                  x: "+=20",
+                  repeat: 4,
+                  yoyo: true
+                }).add(
+                  [
+                    TweenMax.to(f, 0.2, {
+                      autoAlpha: 1,
+                      scale: 1.2
+                    })
+
+                  ]
+                ).add(
+                  [
+                    TweenMax.to(c1, 0.5, {
+                      height: "+=20",
+                      scaleX: 1,
+                      x: "-=20",
+                    })
+
+                  ]
+                )
+              }
+
+      
+    });
+
+    $("#top").lettering();
+    $("#bottom").lettering();
+
+  </script>
+</body>
+</html>

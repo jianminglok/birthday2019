@@ -1,0 +1,2 @@
+webpackJsonp([0xbb88923b55f2],{621:function(t,a){t.exports={data:{markdownRemark:{html:"<p>जन्मदिनको शुभकामना</p>",frontmatter:{author:"Nepali"}}},pathContext:{author:"Nepali"}}}});
+//# sourceMappingURL=path---nepali-a70049aa2984b32b4c20.js.map

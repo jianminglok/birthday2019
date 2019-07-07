@@ -1,0 +1,2 @@
+webpackJsonp([88191398807862],{647:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Зодрӯз муборак</p>",frontmatter:{author:"Tajik"}}},pathContext:{author:"Tajik"}}}});
+//# sourceMappingURL=path---tajik-b33dbb37fb698c37b869.js.map

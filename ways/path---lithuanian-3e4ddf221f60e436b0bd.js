@@ -1,0 +1,2 @@
+webpackJsonp([0xfad7fbcd91f3],{610:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Su gimtadieniu</p>",frontmatter:{author:"Lithuanian"}}},pathContext:{author:"Lithuanian"}}}});
+//# sourceMappingURL=path---lithuanian-3e4ddf221f60e436b0bd.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xb1b94d78dff4],{598:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Kotobian Tadau Kinohodian</p>",frontmatter:{author:"Kadazan"}}},pathContext:{author:"Kadazan"}}}});
+//# sourceMappingURL=path---kadazan-f1a46f32a804838cdb4c.js.map

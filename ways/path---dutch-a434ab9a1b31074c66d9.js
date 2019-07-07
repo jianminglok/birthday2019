@@ -1,0 +1,2 @@
+webpackJsonp([0xdc099eaa1f5e],{565:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Van harte gefeliciteerd</p>",frontmatter:{author:"Dutch"}}},pathContext:{author:"Dutch"}}}});
+//# sourceMappingURL=path---dutch-a434ab9a1b31074c66d9.js.map

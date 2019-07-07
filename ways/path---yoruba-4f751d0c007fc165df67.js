@@ -1,0 +1,2 @@
+webpackJsonp([0xf5a08ee07635],{660:function(a,o){a.exports={data:{markdownRemark:{html:"<p>O ku ojo ibi</p>",frontmatter:{author:"Yoruba"}}},pathContext:{author:"Yoruba"}}}});
+//# sourceMappingURL=path---yoruba-4f751d0c007fc165df67.js.map

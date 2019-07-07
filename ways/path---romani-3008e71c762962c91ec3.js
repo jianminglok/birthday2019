@@ -1,0 +1,2 @@
+webpackJsonp([0xe7882df06e24],{629:function(a,o){a.exports={data:{markdownRemark:{html:"<p>Baxtalo Rodźendano</p>",frontmatter:{author:"Romani"}}},pathContext:{author:"Romani"}}}});
+//# sourceMappingURL=path---romani-3008e71c762962c91ec3.js.map

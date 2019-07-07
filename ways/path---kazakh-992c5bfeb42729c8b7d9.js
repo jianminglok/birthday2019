@@ -1,0 +1,2 @@
+webpackJsonp([41714980340577],{601:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Туған күнің құтты болсын</p>",frontmatter:{author:"Kazakh"}}},pathContext:{author:"Kazakh"}}}});
+//# sourceMappingURL=path---kazakh-992c5bfeb42729c8b7d9.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([44395733720650],{568:function(n,t){n.exports={data:{markdownRemark:{html:"<p>Palju õnne sünnipäevaks</p>",frontmatter:{author:"Estonian"}}},pathContext:{author:"Estonian"}}}});
+//# sourceMappingURL=path---estonian-e54d46b385b78dcbb725.js.map

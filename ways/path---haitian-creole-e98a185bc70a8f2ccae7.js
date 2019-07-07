@@ -1,0 +1,2 @@
+webpackJsonp([0xc512c5836142],{582:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Bòn fèt</p>",frontmatter:{author:"Haitian Creole"}}},pathContext:{author:"Haitian Creole"}}}});
+//# sourceMappingURL=path---haitian-creole-e98a185bc70a8f2ccae7.js.map

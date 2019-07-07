@@ -1,0 +1,2 @@
+webpackJsonp([9959630181739],{558:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Per molts anys</p>",frontmatter:{author:"Catalian"}}},pathContext:{author:"Catalian"}}}});
+//# sourceMappingURL=path---catalian-599a9272ecc3eca43614.js.map

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Kung's Birthday</title>
+    <link rel="icon" type="image/png" href="http://zenika.com/assets/icons/favicon-16x16.png" sizes="16x16">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="bg bg1">
+      <h1>想要蛋糕?</h1>
+      <h1 class="smaller">继续往前看吧</h1>
+      <div class="container">
+        <svg id="main-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+          <svg id="drawing" transform="translate(50,50) scale=(1.5, 1.5)" viewBox="-10 -10 125 125">
+          </svg>
+        </svg>
+        <script type="text/javascript" src="./movezen.js"></script>
+      </div>
+      <button class="proceedButton" onclick="window.location.href='/cake'">继续</button>
+    </div>
+  </body>
+
+<script>
+  $( document ).ready(function() {
+    $("circle")[0].style.fill = "none"
+  });
+</script>
+</html>

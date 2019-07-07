@@ -1,0 +1,2 @@
+webpackJsonp([34845008074490],{617:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Te huritau hari</p>",frontmatter:{author:"Maori"}}},pathContext:{author:"Maori"}}}});
+//# sourceMappingURL=path---maori-97ee2ccc29a0fff8fa9f.js.map

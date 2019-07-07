@@ -1,0 +1,2 @@
+webpackJsonp([0x6006d8ecd86f],{576:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Feliz Aniversario</p>",frontmatter:{author:"Galician"}}},pathContext:{author:"Galician"}}}});
+//# sourceMappingURL=path---galician-4137e0ec2f0bb433a5c4.js.map

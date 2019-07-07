@@ -1,0 +1,2 @@
+webpackJsonp([0xf54453ae8897],{585:function(t,a){t.exports={data:{markdownRemark:{html:"<p>יום הולדת שמח</p>",frontmatter:{author:"Hebrew"}}},pathContext:{author:"Hebrew"}}}});
+//# sourceMappingURL=path---hebrew-8a248e7105549d9e55f0.js.map

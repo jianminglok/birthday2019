@@ -1,0 +1,2 @@
+webpackJsonp([76577459156498],{592:function(a,n){a.exports={data:{markdownRemark:{html:"<p>Selamat ulang tahun</p>",frontmatter:{author:"Indonesian"}}},pathContext:{author:"Indonesian"}}}});
+//# sourceMappingURL=path---indonesian-94a86d402e381cfec3b8.js.map

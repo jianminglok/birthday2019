@@ -1,0 +1,2 @@
+webpackJsonp([0x655d220211d5],{649:function(t,a){t.exports={data:{markdownRemark:{html:"<p>สุขสันต์วันเกิด</p>",frontmatter:{author:"Thai"}}},pathContext:{author:"Thai"}}}});
+//# sourceMappingURL=path---thai-6a12e2bccecd7fec4bdb.js.map

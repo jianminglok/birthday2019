@@ -1,0 +1,2 @@
+webpackJsonp([89706264369640],{628:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Bonne fête</p>",frontmatter:{author:"Québécois"}}},pathContext:{author:"Québécois"}}}});
+//# sourceMappingURL=path---quebecois-3f6e0967607c269abc3e.js.map
